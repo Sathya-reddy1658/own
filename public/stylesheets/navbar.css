@@ -1,0 +1,21 @@
+#menu {
+    padding-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+    background: transparent;
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: gilroy;
+
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
